@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     "Portfolio of Afraj, a Senior Software Engineer building scalable applications, enterprise systems, and modern digital products.",
 
-  applicationName: "Afraj Portfolio",
+  applicationName: "Afraj  | Senior Software Engineer",
 
   keywords: [
     "Afraj",
